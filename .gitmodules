@@ -1,0 +1,42 @@
+[submodule "perl/Amon"]
+	path = perl/Amon
+	url = https://github.com/tokuhirom/Amon.git
+[submodule "perl/Config-ENV"]
+	path = perl/Config-ENV
+	url = git://github.com/cho45/Config-ENV.git
+[submodule "perl/DBIx-MoCo"]
+	path = perl/DBIx-MoCo
+	url = https://github.com/hatena/DBIx-MoCo.git
+[submodule "perl/Guita"]
+	path = perl/Guita
+	url = git://github.com/hakobe/Guita.git
+[submodule "perl/Net-Twitter"]
+	path = perl/Net-Twitter
+	url = https://github.com/semifor/Net-Twitter.git
+[submodule "perl/Plack"]
+	path = perl/Plack
+	url = git://github.com/plack/Plack.git
+[submodule "perl/Ridge"]
+	path = perl/Ridge
+	url = git://github.com/hatena/Ridge.git
+[submodule "perl/Teng"]
+	path = perl/Teng
+	url = git://github.com/nekokak/p5-Teng.git
+[submodule "perl/cpanminus"]
+	path = perl/cpanminus
+	url = git://github.com/miyagawa/cpanminus.git
+[submodule "perl/carton"]
+	path = perl/carton
+	url = git://github.com/miyagawa/carton.git
+[submodule "perl/Class-Accessor-Lite"]
+	path = perl/Class-Accessor-Lite
+	url = https://github.com/kazuho/p5-Class-Accessor-Lite.git
+[submodule "perl/Test-Mock-Guard"]
+	path = perl/Test-Mock-Guard
+	url = https://github.com/zigorou/p5-test-mock-guard.git
+[submodule "perl/Net-GitHub"]
+	path = perl/Net-GitHub
+	url = https://github.com/fayland/perl-net-github.git
+[submodule "perl/PrePAN"]
+	path = perl/PrePAN
+	url = https://github.com/prepan-developers/prepan.git
