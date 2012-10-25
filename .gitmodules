@@ -40,3 +40,48 @@
 [submodule "perl/PrePAN"]
 	path = perl/PrePAN
 	url = https://github.com/prepan-developers/prepan.git
+[submodule "ruby/rails"]
+	path = ruby/rails
+	url = git://github.com/rails/rails.git
+[submodule "ruby/trema"]
+	path = ruby/trema
+	url = git://github.com/trema/trema.git
+[submodule "ruby/sinatra"]
+	path = ruby/sinatra
+	url = git://github.com/sinatra/sinatra.git
+[submodule "ruby/ramaze"]
+	path = ruby/ramaze
+	url = git://github.com/Ramaze/ramaze.git
+[submodule "ruby/twitter"]
+	path = ruby/twitter
+	url = https://github.com/sferik/twitter.git
+[submodule "ruby/railscast"]
+	path = ruby/railscast
+	url = https://github.com/ryanb/railscasts.git
+[submodule "ruby/redmine"]
+	path = ruby/redmine
+	url = git://github.com/redmine/redmine.git
+[submodule "ruby/qiita-rb"]
+	path = ruby/qiita-rb
+	url = git://github.com/yaotti/qiita-rb.git
+[submodule "ruby/devise"]
+	path = ruby/devise
+	url = https://github.com/plataformatec/devise.git
+[submodule "ruby/warden"]
+	path = ruby/warden
+	url = https://github.com/hassox/warden.git
+[submodule "ruby/rack"]
+	path = ruby/rack
+	url = git://github.com/rack/rack.git
+[submodule "ruby/hub"]
+	path = ruby/hub
+	url = git://github.com/defunkt/hub.git
+[submodule "ruby/pry"]
+	path = ruby/pry
+	url = git://github.com/pry/pry.git
+[submodule "ruby/eventmachine"]
+	path = ruby/eventmachine
+	url = https://github.com/eventmachine/eventmachine.git
+[submodule "ruby/chatroid"]
+	path = ruby/chatroid
+	url = git://github.com/r7kamura/chatroid.git
