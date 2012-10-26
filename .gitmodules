@@ -85,3 +85,15 @@
 [submodule "ruby/chatroid"]
 	path = ruby/chatroid
 	url = git://github.com/r7kamura/chatroid.git
+[submodule "js/antigen"]
+	path = js/antigen
+	url = https://github.com/zsh-users/antigen.git
+[submodule "js/backbone"]
+	path = js/backbone
+	url = https://github.com/documentcloud/backbone.git
+[submodule "js/underscore"]
+	path = js/underscore
+	url = https://github.com/documentcloud/underscore.git
+[submodule "js/jquery"]
+	path = js/jquery
+	url = https://github.com/jquery/jquery.git
