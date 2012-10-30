@@ -100,3 +100,9 @@
 [submodule "ruby/tw"]
 	path = ruby/tw
 	url = https://github.com/shokai/tw.git
+[submodule "c/tcpdump"]
+	path = c/tcpdump
+	url = https://github.com/mcr/tcpdump.git
+[submodule "c/libpcap"]
+	path = c/libpcap
+	url = https://github.com/mcr/libpcap.git
