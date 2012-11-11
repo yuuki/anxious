@@ -106,3 +106,6 @@
 [submodule "c/libpcap"]
 	path = c/libpcap
 	url = https://github.com/mcr/libpcap.git
+[submodule "perl/DBIx-Lite"]
+	path = perl/DBIx-Lite
+	url = https://github.com/alexrj/DBIx-Lite.git
