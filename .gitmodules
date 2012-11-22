@@ -109,3 +109,6 @@
 [submodule "perl/DBIx-Lite"]
 	path = perl/DBIx-Lite
 	url = https://github.com/alexrj/DBIx-Lite.git
+[submodule "ruby/faraday"]
+	path = ruby/faraday
+	url = https://github.com/technoweenie/faraday.git
