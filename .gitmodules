@@ -109,3 +109,18 @@
 [submodule "perl/DBIx-Lite"]
 	path = perl/DBIx-Lite
 	url = https://github.com/alexrj/DBIx-Lite.git
+[submodule "ruby/rubygems"]
+	path = ruby/rubygems
+	url = https://github.com/rubygems/rubygems.org.git
+[submodule "c/thrust"]
+	path = c/thrust
+	url = https://github.com/thrust/thrust.git
+[submodule "c/kgpu"]
+	path = c/kgpu
+	url = https://github.com/wbsun/kgpu.git
+[submodule "ruby/gitlabhq"]
+	path = ruby/gitlabhq
+	url = https://github.com/gitlabhq/gitlabhq.git
+[submodule "c/recaro"]
+	path = c/recaro
+	url = https://github.com/KLab/recaro.git
