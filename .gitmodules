@@ -124,3 +124,12 @@
 [submodule "c/recaro"]
 	path = c/recaro
 	url = https://github.com/KLab/recaro.git
+[submodule "js/express"]
+	path = js/express
+	url = https://github.com/visionmedia/express.git
+[submodule "js/socket.io"]
+	path = js/socket.io
+	url = https://github.com/LearnBoost/socket.io.git
+[submodule "perl/Hash-MultiValue"]
+	path = perl/Hash-MultiValue
+	url = https://github.com/miyagawa/Hash-MultiValue.git
