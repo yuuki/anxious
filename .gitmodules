@@ -133,3 +133,9 @@
 [submodule "perl/Hash-MultiValue"]
 	path = perl/Hash-MultiValue
 	url = https://github.com/miyagawa/Hash-MultiValue.git
+[submodule "ruby/hashr"]
+	path = ruby/hashr
+	url = https://github.com/svenfuchs/hashr.git
+[submodule "perl/GrowthForecast"]
+	path = perl/GrowthForecast
+	url = git@github.com:kazeburo/GrowthForecast.git
