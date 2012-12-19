@@ -139,3 +139,33 @@
 [submodule "perl/GrowthForecast"]
 	path = perl/GrowthForecast
 	url = git@github.com:kazeburo/GrowthForecast.git
+[submodule "c/tcp-daytona"]
+	path = c/tcp-daytona
+	url = git@github.com:jamesbw/tcp-daytona.git
+[submodule "c/Packet-IO-Engine"]
+	path = c/Packet-IO-Engine
+	url = git@github.com:PacketShader/Packet-IO-Engine.git
+[submodule "viml/unite-git.git"]
+	path = viml/unite-git.git
+	url = git@github.com:yuku-t/unite-git.git
+[submodule "viml/unite-ruby-require.vim"]
+	path = viml/unite-ruby-require.vim
+	url = git@github.com:rhysd/unite-ruby-require.vim.git
+[submodule "viml/flymake-perl.vim"]
+	path = viml/flymake-perl.vim
+	url = git@github.com:ywatase/flymake-perl.vim.git
+[submodule "perl/project-libs"]
+	path = perl/project-libs
+	url = git@github.com:kentaro/perl-project-libs.git
+[submodule "viml/vim-localrc"]
+	path = viml/vim-localrc
+	url = git@github.com:thinca/vim-localrc.git
+[submodule "viml/syntastic.vim"]
+	path = viml/syntastic.vim
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "dotfiles/rhysd"]
+	path = dotfiles/rhysd
+	url = git@github.com:rhysd/dotfiles.git
+[submodule "dotfiles/aereal"]
+	path = dotfiles/aereal
+	url = git@github.com:aereal/dotfiles.git
