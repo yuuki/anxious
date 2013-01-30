@@ -169,3 +169,30 @@
 [submodule "dotfiles/aereal"]
 	path = dotfiles/aereal
 	url = git@github.com:aereal/dotfiles.git
+[submodule "cpp/SYN-flood"]
+	path = cpp/SYN-flood
+	url = git@github.com:pfpacket/SYN-flood.git
+[submodule "c/nmap"]
+	path = c/nmap
+	url = git@github.com:nmap/nmap.git
+[submodule "perl/munin"]
+	path = perl/munin
+	url = git@github.com:munin-monitoring/munin.git
+[submodule "perl/Test-Mock-ExternalCommand"]
+	path = perl/Test-Mock-ExternalCommand
+	url = git@github.com:tsucchi/p5-Test-Mock-ExternalCommand.git
+[submodule "perl/Router-Simple"]
+	path = perl/Router-Simple
+	url = git@github.com:tokuhirom/p5-router-simple.git
+[submodule "c/rrdtool"]
+	path = c/rrdtool
+	url = git@github.com:oetiker/rrdtool-1.x.git
+[submodule "perl/starter.pl"]
+	path = perl/starter.pl
+	url = https://github.com/cho45/starter.pl
+[submodule "perl/capture-tiny"]
+	path = perl/capture-tiny
+	url = git@github.com:dagolden/capture-tiny.git
+[submodule "perl/Kossy"]
+	path = perl/Kossy
+	url = git@github.com:kazeburo/Kossy.git
