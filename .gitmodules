@@ -196,3 +196,9 @@
 [submodule "perl/Kossy"]
 	path = perl/Kossy
 	url = git@github.com:kazeburo/Kossy.git
+[submodule "perl/oauth-lite"]
+	path = perl/oauth-lite
+	url = git@github.com:lyokato/p5-oauth-lite.git
+[submodule "js/flight"]
+	path = js/flight
+	url = git@github.com:twitter/flight.git
