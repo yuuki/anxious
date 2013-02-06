@@ -202,3 +202,9 @@
 [submodule "js/flight"]
 	path = js/flight
 	url = git@github.com:twitter/flight.git
+[submodule "perl/DBIx-QueryLog"]
+	path = perl/DBIx-QueryLog
+	url = git@github.com:xaicron/p5-DBIx-QueryLog.git
+[submodule "perl/Scope-Container-DBI"]
+	path = perl/Scope-Container-DBI
+	url = git@github.com:kazeburo/Scope-Container-DBI.git
