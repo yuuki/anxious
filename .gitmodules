@@ -208,3 +208,12 @@
 [submodule "perl/Scope-Container-DBI"]
 	path = perl/Scope-Container-DBI
 	url = git@github.com:kazeburo/Scope-Container-DBI.git
+[submodule "perl/Plack-Middleware-Session"]
+	path = perl/Plack-Middleware-Session
+	url = git@github.com:stevan/plack-middleware-session.git
+[submodule "perl/Plack-Builder-Conditionals"]
+	path = perl/Plack-Builder-Conditionals
+	url = git@github.com:kazeburo/Plack-Builder-Conditionals.git
+[submodule "perl/HTTP-Tiny"]
+	path = perl/HTTP-Tiny
+	url = git@github.com:chansen/p5-http-tiny.git
