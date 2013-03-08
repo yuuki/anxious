@@ -217,3 +217,24 @@
 [submodule "perl/HTTP-Tiny"]
 	path = perl/HTTP-Tiny
 	url = git@github.com:chansen/p5-http-tiny.git
+[submodule "perl/Test-Stub"]
+	path = perl/Test-Stub
+	url = git@github.com:tokuhirom/Test-Stub.git
+[submodule "perl/Plack-Middleware-ServerStatus-Lite"]
+	path = perl/Plack-Middleware-ServerStatus-Lite
+	url = git@github.com:kazeburo/Plack-Middleware-ServerStatus-Lite.git
+[submodule "perl/Plack-Middleware-Debug"]
+	path = perl/Plack-Middleware-Debug
+	url = git@github.com:miyagawa/Plack-Middleware-Debug.git
+[submodule "perl/ack"]
+	path = perl/ack
+	url = git@github.com:petdance/ack.git
+[submodule "perl/mojo"]
+	path = perl/mojo
+	url = git@github.com:kraih/mojo.git
+[submodule "perl/cinnamon"]
+	path = perl/cinnamon
+	url = git@github.com:kentaro/cinnamon.git
+[submodule "perl/Class-Accessor-Lite-Lazy"]
+	path = perl/Class-Accessor-Lite-Lazy
+	url = git://github.com/motemen/Class-Accessor-Lite-Lazy.git
