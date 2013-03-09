@@ -238,3 +238,9 @@
 [submodule "perl/Class-Accessor-Lite-Lazy"]
 	path = perl/Class-Accessor-Lite-Lazy
 	url = git://github.com/motemen/Class-Accessor-Lite-Lazy.git
+[submodule "perl/Amon2-Lite"]
+	path = perl/Amon2-Lite
+	url = git://github.com/tokuhirom/Amon2-Lite.git
+[submodule "c/httpd"]
+	path = c/httpd
+	url = git://github.com/apache/httpd.git
