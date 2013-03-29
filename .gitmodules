@@ -244,3 +244,9 @@
 [submodule "c/httpd"]
 	path = c/httpd
 	url = git://github.com/apache/httpd.git
+[submodule "perl/TheSchwartz"]
+	path = perl/TheSchwartz
+	url = git://github.com/saymedia/TheSchwartz.git
+[submodule "perl/Proclet"]
+	path = perl/Proclet
+	url = git://github.com/kazeburo/Proclet.git
