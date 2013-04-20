@@ -256,3 +256,18 @@
 [submodule "c/microps"]
 	path = c/microps
 	url = git://github.com/pandax381/microps.git
+[submodule "perl/Starman"]
+	path = perl/Starman
+	url = git://github.com/miyagawa/Starman.git
+[submodule "perl/Starlet"]
+	path = perl/Starlet
+	url = git://github.com/kazuho/Starlet.git
+[submodule "c/unetstack"]
+	path = c/unetstack
+	url = http://www.ioremap.net/archive/unetstack/unetstack.git/
+[submodule "perl/Data-Validator"]
+	path = perl/Data-Validator
+	url = git://github.com/gfx/p5-Data-Validator.git
+[submodule "perl/Mouse"]
+	path = perl/Mouse
+	url = git://github.com/gfx/p5-Mouse.git
