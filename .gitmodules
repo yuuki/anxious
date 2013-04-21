@@ -271,3 +271,6 @@
 [submodule "perl/Mouse"]
 	path = perl/Mouse
 	url = git://github.com/gfx/p5-Mouse.git
+[submodule "perl/Minilla"]
+	path = perl/Minilla
+	url = git://github.com/tokuhirom/Minilla.git
