@@ -274,3 +274,6 @@
 [submodule "perl/Minilla"]
 	path = perl/Minilla
 	url = git://github.com/tokuhirom/Minilla.git
+[submodule "perl/Validate-Tiny"]
+	path = perl/Validate-Tiny
+	url = git://github.com/naturalist/Validate--Tiny.git
