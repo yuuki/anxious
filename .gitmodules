@@ -277,3 +277,6 @@
 [submodule "perl/Validate-Tiny"]
 	path = perl/Validate-Tiny
 	url = git://github.com/naturalist/Validate--Tiny.git
+[submodule "perl/FormValidator-Lite"]
+	path = perl/FormValidator-Lite
+	url = git://github.com/tokuhirom/formvalidator-lite.git
