@@ -280,3 +280,6 @@
 [submodule "perl/FormValidator-Lite"]
 	path = perl/FormValidator-Lite
 	url = git://github.com/tokuhirom/formvalidator-lite.git
+[submodule "perl/dongry"]
+	path = perl/dongry
+	url = git://github.com/wakaba/dongry.git
