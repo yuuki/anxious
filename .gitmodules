@@ -112,3 +112,171 @@
 [submodule "ruby/faraday"]
 	path = ruby/faraday
 	url = https://github.com/technoweenie/faraday.git
+[submodule "ruby/rubygems"]
+	path = ruby/rubygems
+	url = https://github.com/rubygems/rubygems.org.git
+[submodule "c/thrust"]
+	path = c/thrust
+	url = https://github.com/thrust/thrust.git
+[submodule "c/kgpu"]
+	path = c/kgpu
+	url = https://github.com/wbsun/kgpu.git
+[submodule "ruby/gitlabhq"]
+	path = ruby/gitlabhq
+	url = https://github.com/gitlabhq/gitlabhq.git
+[submodule "c/recaro"]
+	path = c/recaro
+	url = https://github.com/KLab/recaro.git
+[submodule "js/express"]
+	path = js/express
+	url = https://github.com/visionmedia/express.git
+[submodule "js/socket.io"]
+	path = js/socket.io
+	url = https://github.com/LearnBoost/socket.io.git
+[submodule "perl/Hash-MultiValue"]
+	path = perl/Hash-MultiValue
+	url = https://github.com/miyagawa/Hash-MultiValue.git
+[submodule "ruby/hashr"]
+	path = ruby/hashr
+	url = https://github.com/svenfuchs/hashr.git
+[submodule "perl/GrowthForecast"]
+	path = perl/GrowthForecast
+	url = git@github.com:kazeburo/GrowthForecast.git
+[submodule "c/tcp-daytona"]
+	path = c/tcp-daytona
+	url = git@github.com:jamesbw/tcp-daytona.git
+[submodule "c/Packet-IO-Engine"]
+	path = c/Packet-IO-Engine
+	url = git@github.com:PacketShader/Packet-IO-Engine.git
+[submodule "viml/unite-git.git"]
+	path = viml/unite-git.git
+	url = git@github.com:yuku-t/unite-git.git
+[submodule "viml/unite-ruby-require.vim"]
+	path = viml/unite-ruby-require.vim
+	url = git@github.com:rhysd/unite-ruby-require.vim.git
+[submodule "viml/flymake-perl.vim"]
+	path = viml/flymake-perl.vim
+	url = git@github.com:ywatase/flymake-perl.vim.git
+[submodule "perl/project-libs"]
+	path = perl/project-libs
+	url = git@github.com:kentaro/perl-project-libs.git
+[submodule "viml/vim-localrc"]
+	path = viml/vim-localrc
+	url = git@github.com:thinca/vim-localrc.git
+[submodule "viml/syntastic.vim"]
+	path = viml/syntastic.vim
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "dotfiles/rhysd"]
+	path = dotfiles/rhysd
+	url = git@github.com:rhysd/dotfiles.git
+[submodule "dotfiles/aereal"]
+	path = dotfiles/aereal
+	url = git@github.com:aereal/dotfiles.git
+[submodule "cpp/SYN-flood"]
+	path = cpp/SYN-flood
+	url = git@github.com:pfpacket/SYN-flood.git
+[submodule "c/nmap"]
+	path = c/nmap
+	url = git@github.com:nmap/nmap.git
+[submodule "perl/munin"]
+	path = perl/munin
+	url = git@github.com:munin-monitoring/munin.git
+[submodule "perl/Test-Mock-ExternalCommand"]
+	path = perl/Test-Mock-ExternalCommand
+	url = git@github.com:tsucchi/p5-Test-Mock-ExternalCommand.git
+[submodule "perl/Router-Simple"]
+	path = perl/Router-Simple
+	url = git@github.com:tokuhirom/p5-router-simple.git
+[submodule "c/rrdtool"]
+	path = c/rrdtool
+	url = git@github.com:oetiker/rrdtool-1.x.git
+[submodule "perl/starter.pl"]
+	path = perl/starter.pl
+	url = https://github.com/cho45/starter.pl
+[submodule "perl/capture-tiny"]
+	path = perl/capture-tiny
+	url = git@github.com:dagolden/capture-tiny.git
+[submodule "perl/Kossy"]
+	path = perl/Kossy
+	url = git@github.com:kazeburo/Kossy.git
+[submodule "perl/oauth-lite"]
+	path = perl/oauth-lite
+	url = git@github.com:lyokato/p5-oauth-lite.git
+[submodule "js/flight"]
+	path = js/flight
+	url = git@github.com:twitter/flight.git
+[submodule "perl/DBIx-QueryLog"]
+	path = perl/DBIx-QueryLog
+	url = git@github.com:xaicron/p5-DBIx-QueryLog.git
+[submodule "perl/Scope-Container-DBI"]
+	path = perl/Scope-Container-DBI
+	url = git@github.com:kazeburo/Scope-Container-DBI.git
+[submodule "perl/Plack-Middleware-Session"]
+	path = perl/Plack-Middleware-Session
+	url = git@github.com:stevan/plack-middleware-session.git
+[submodule "perl/Plack-Builder-Conditionals"]
+	path = perl/Plack-Builder-Conditionals
+	url = git@github.com:kazeburo/Plack-Builder-Conditionals.git
+[submodule "perl/HTTP-Tiny"]
+	path = perl/HTTP-Tiny
+	url = git@github.com:chansen/p5-http-tiny.git
+[submodule "perl/Test-Stub"]
+	path = perl/Test-Stub
+	url = git@github.com:tokuhirom/Test-Stub.git
+[submodule "perl/Plack-Middleware-ServerStatus-Lite"]
+	path = perl/Plack-Middleware-ServerStatus-Lite
+	url = git@github.com:kazeburo/Plack-Middleware-ServerStatus-Lite.git
+[submodule "perl/Plack-Middleware-Debug"]
+	path = perl/Plack-Middleware-Debug
+	url = git@github.com:miyagawa/Plack-Middleware-Debug.git
+[submodule "perl/ack"]
+	path = perl/ack
+	url = git@github.com:petdance/ack.git
+[submodule "perl/mojo"]
+	path = perl/mojo
+	url = git@github.com:kraih/mojo.git
+[submodule "perl/cinnamon"]
+	path = perl/cinnamon
+	url = git@github.com:kentaro/cinnamon.git
+[submodule "perl/Class-Accessor-Lite-Lazy"]
+	path = perl/Class-Accessor-Lite-Lazy
+	url = git://github.com/motemen/Class-Accessor-Lite-Lazy.git
+[submodule "perl/Amon2-Lite"]
+	path = perl/Amon2-Lite
+	url = git://github.com/tokuhirom/Amon2-Lite.git
+[submodule "perl/TheSchwartz"]
+	path = perl/TheSchwartz
+	url = git://github.com/saymedia/TheSchwartz.git
+[submodule "perl/Proclet"]
+	path = perl/Proclet
+	url = git://github.com/kazeburo/Proclet.git
+[submodule "perl/Parallel-Prefork"]
+	path = perl/Parallel-Prefork
+	url = git://github.com/kazuho/p5-parallel-prefork.git
+[submodule "c/microps"]
+	path = c/microps
+	url = git://github.com/pandax381/microps.git
+[submodule "perl/Starman"]
+	path = perl/Starman
+	url = git://github.com/miyagawa/Starman.git
+[submodule "perl/Starlet"]
+	path = perl/Starlet
+	url = git://github.com/kazuho/Starlet.git
+[submodule "c/unetstack"]
+	path = c/unetstack
+	url = http://www.ioremap.net/archive/unetstack/unetstack.git/
+[submodule "perl/Data-Validator"]
+	path = perl/Data-Validator
+	url = git://github.com/gfx/p5-Data-Validator.git
+[submodule "perl/Mouse"]
+	path = perl/Mouse
+	url = git://github.com/gfx/p5-Mouse.git
+[submodule "perl/Minilla"]
+	path = perl/Minilla
+	url = git://github.com/tokuhirom/Minilla.git
+[submodule "perl/Validate-Tiny"]
+	path = perl/Validate-Tiny
+	url = git://github.com/naturalist/Validate--Tiny.git
+[submodule "perl/FormValidator-Lite"]
+	path = perl/FormValidator-Lite
+	url = git://github.com/tokuhirom/formvalidator-lite.git
