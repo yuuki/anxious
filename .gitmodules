@@ -289,3 +289,6 @@
 [submodule "perl/SQL-Maker"]
 	path = perl/SQL-Maker
 	url = git://github.com/tokuhirom/SQL-Maker.git
+[submodule "perl/Monoceros"]
+	path = perl/Monoceros
+	url = git://github.com/kazeburo/Monoceros.git
