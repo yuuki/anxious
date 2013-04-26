@@ -283,3 +283,9 @@
 [submodule "perl/dongry"]
 	path = perl/dongry
 	url = git://github.com/wakaba/dongry.git
+[submodule "perl/Server-Starter"]
+	path = perl/Server-Starter
+	url = git://github.com/kazuho/p5-Server-Starter.git
+[submodule "perl/SQL-Maker"]
+	path = perl/SQL-Maker
+	url = git://github.com/tokuhirom/SQL-Maker.git
