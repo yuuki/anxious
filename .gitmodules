@@ -298,3 +298,6 @@
 [submodule "perl/Text-Xslate"]
 	path = perl/Text-Xslate
 	url = git://github.com/xslate/p5-Text-Xslate.git
+[submodule "perl/DBD-mysql"]
+	path = perl/DBD-mysql
+	url = git://github.com/CaptTofu/DBD-mysql.git
