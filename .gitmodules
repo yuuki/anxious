@@ -292,3 +292,6 @@
 [submodule "perl/Monoceros"]
 	path = perl/Monoceros
 	url = git://github.com/kazeburo/Monoceros.git
+[submodule "perl/DBI"]
+	path = perl/DBI
+	url = git://github.com/perl5-dbi/dbi.git
