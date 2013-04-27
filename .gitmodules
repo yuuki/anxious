@@ -147,7 +147,7 @@
 	url = git@github.com:jamesbw/tcp-daytona.git
 [submodule "c/Packet-IO-Engine"]
 	path = c/Packet-IO-Engine
-	url = git@github.com:PacketShader/Packet-IO-Engine.git
+	url = git://github.com/PacketShader/Packet-IO-Engine.git
 [submodule "viml/unite-git.git"]
 	path = viml/unite-git.git
 	url = git@github.com:yuku-t/unite-git.git
