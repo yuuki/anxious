@@ -295,3 +295,6 @@
 [submodule "perl/DBI"]
 	path = perl/DBI
 	url = git://github.com/perl5-dbi/dbi.git
+[submodule "perl/Text-Xslate"]
+	path = perl/Text-Xslate
+	url = git://github.com/xslate/p5-Text-Xslate.git
