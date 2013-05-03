@@ -37,9 +37,6 @@
 [submodule "perl/Net-GitHub"]
 	path = perl/Net-GitHub
 	url = https://github.com/fayland/perl-net-github.git
-[submodule "perl/PrePAN"]
-	path = perl/PrePAN
-	url = https://github.com/CPAN-API/prepan
 [submodule "ruby/rails"]
 	path = ruby/rails
 	url = git://github.com/rails/rails.git
@@ -301,3 +298,15 @@
 [submodule "perl/DBD-mysql"]
 	path = perl/DBD-mysql
 	url = git://github.com/CaptTofu/DBD-mysql.git
+[submodule "perl/prepan"]
+	path = perl/prepan
+	url = git://github.com/CPAN-API/prepan
+[submodule "js/realtime-log-visualization"]
+	path = js/realtime-log-visualization
+	url = git://github.com/stanaka/realtime-log-visualization.git
+[submodule "js/rickshaw"]
+	path = js/rickshaw
+	url = git://github.com/shutterstock/rickshaw.git
+[submodule "perl/Perlbal"]
+	path = perl/Perlbal
+	url = git://github.com/perlbal/Perlbal.git
