@@ -310,3 +310,21 @@
 [submodule "perl/Perlbal"]
 	path = perl/Perlbal
 	url = git://github.com/perlbal/Perlbal.git
+[submodule "perl/flight"]
+	path = perl/flight
+	url = git://github.com/twitter/flight.git
+[submodule "c/hammer"]
+	path = c/hammer
+	url = git://github.com/kay21s/hammer.git
+[submodule "c/libgpucrypto"]
+	path = c/libgpucrypto
+	url = https://github.iu.edu/nhusted/libgpucrypto.git
+[submodule "perl/Ark"]
+	path = perl/Ark
+	url = git://github.com/typester/ark-perl.git
+[submodule "perl/Sub-Retry"]
+	path = perl/Sub-Retry
+	url = git://github.com/tokuhirom/Sub-Retry.git
+[submodule "perl/Qudo"]
+	path = perl/Qudo
+	url = git://github.com/nekokak/qudo.git
