@@ -328,3 +328,6 @@
 [submodule "perl/Qudo"]
 	path = perl/Qudo
 	url = git://github.com/nekokak/qudo.git
+[submodule "perl/STF"]
+	path = perl/STF
+	url = git://github.com/stf-storage/stf.git
