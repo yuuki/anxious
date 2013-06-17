@@ -331,3 +331,6 @@
 [submodule "perl/STF"]
 	path = perl/STF
 	url = git://github.com/stf-storage/stf.git
+[submodule "perl/Test-TCP"]
+	path = perl/Test-TCP
+	url = git://github.com/tokuhirom/Test-TCP.git
