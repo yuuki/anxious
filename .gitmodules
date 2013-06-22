@@ -334,3 +334,6 @@
 [submodule "perl/Test-TCP"]
 	path = perl/Test-TCP
 	url = git://github.com/tokuhirom/Test-TCP.git
+[submodule "cpp/q4m"]
+	path = cpp/q4m
+	url = https://github.com/q4m/q4m.git
