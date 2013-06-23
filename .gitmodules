@@ -337,3 +337,6 @@
 [submodule "cpp/q4m"]
 	path = cpp/q4m
 	url = https://github.com/q4m/q4m.git
+[submodule "ruby/serverspec"]
+	path = ruby/serverspec
+	url = https://github.com/mizzy/serverspec.git
