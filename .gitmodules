@@ -340,3 +340,39 @@
 [submodule "ruby/serverspec"]
 	path = ruby/serverspec
 	url = https://github.com/mizzy/serverspec.git
+[submodule "sh/mysetup"]
+	path = sh/mysetup
+	url = https://github.com/kazeburo/mysetup.git
+[submodule "perl/Clutch"]
+	path = perl/Clutch
+	url = https://github.com/nekokak/p5-Clutch.git
+[submodule "perl/Qudo-Parallel-Worker"]
+	path = perl/Qudo-Parallel-Worker
+	url = https://github.com/nekokak/Qudo-Parallel-Worker.git
+[submodule "perl/Qudo-Parallel-Manager"]
+	path = perl/Qudo-Parallel-Manager
+	url = https://github.com/nekokak/Qudo-Parallel-Manager.git
+[submodule "ruby/rpm"]
+	path = ruby/rpm
+	url = https://github.com/newrelic/rpm.git
+[submodule "js/aura"]
+	path = js/aura
+	url = https://github.com/aurajs/aura.git
+[submodule "perl/mysqlenv"]
+	path = perl/mysqlenv
+	url = https://github.com/xaicron/mysqlenv.git
+[submodule "perl/Coro"]
+	path = perl/Coro
+	url = https://github.com/chipdude/coro.git
+[submodule "perl/TheSchwartz-Simple"]
+	path = perl/TheSchwartz-Simple
+	url = https://github.com/miyagawa/theschwartz-simple.git
+[submodule "perl/Nephia"]
+	path = perl/Nephia
+	url = https://github.com/ytnobody/Nephia.git
+[submodule "perl/Devel-KYTProf"]
+	path = perl/Devel-KYTProf
+	url = https://github.com/onishi/perl5-devel-kytprof.git
+[submodule "perl/Test-Class"]
+	path = perl/Test-Class
+	url = https://github.com/adrianh/test-class.git
