@@ -319,9 +319,6 @@
 [submodule "c/libgpucrypto"]
 	path = c/libgpucrypto
 	url = https://github.iu.edu/nhusted/libgpucrypto.git
-[submodule "perl/Ark"]
-	path = perl/Ark
-	url = git://github.com/typester/ark-perl.git
 [submodule "perl/Sub-Retry"]
 	path = perl/Sub-Retry
 	url = git://github.com/tokuhirom/Sub-Retry.git
@@ -376,3 +373,12 @@
 [submodule "perl/Test-Class"]
 	path = perl/Test-Class
 	url = https://github.com/adrianh/test-class.git
+[submodule "others/isucon"]
+	path = others/isucon
+	url = https://github.com/tagomoris/isucon.git
+[submodule "perl/cloudforecast"]
+	path = perl/cloudforecast
+	url = https://github.com/kazeburo/cloudforecast.git
+[submodule "perl/Ark"]
+	path = perl/Ark
+	url = https://github.com/ark-framework/ark.git
