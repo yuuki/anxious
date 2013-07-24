@@ -382,3 +382,9 @@
 [submodule "perl/Ark"]
 	path = perl/Ark
 	url = https://github.com/ark-framework/ark.git
+[submodule "perl/Scope-Container"]
+	path = perl/Scope-Container
+	url = https://github.com/kazeburo/Scope-Container.git
+[submodule "perl/List-UtilsBy-XS"]
+	path = perl/List-UtilsBy-XS
+	url = https://github.com/syohex/p5-List-Utils-By.git
