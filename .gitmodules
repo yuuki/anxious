@@ -388,3 +388,18 @@
 [submodule "perl/List-UtilsBy-XS"]
 	path = perl/List-UtilsBy-XS
 	url = https://github.com/syohex/p5-List-Utils-By.git
+[submodule "perl/Dist-Maker"]
+	path = perl/Dist-Maker
+	url = https://github.com/gfx/Dist-Maker.git
+[submodule "go/groupcache"]
+	path = go/groupcache
+	url = https://github.com/golang/groupcache.git
+[submodule "go/docker"]
+	path = go/docker
+	url = https://github.com/dotcloud/docker.git
+[submodule "ruby/RReDis"]
+	path = ruby/RReDis
+	url = https://github.com/dsander/RReDis.git
+[submodule "python/kairos"]
+	path = python/kairos
+	url = https://github.com/agoragames/kairos.git
