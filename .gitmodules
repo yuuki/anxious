@@ -403,3 +403,9 @@
 [submodule "python/kairos"]
 	path = python/kairos
 	url = https://github.com/agoragames/kairos.git
+[submodule "ruby/fnordmetric"]
+	path = ruby/fnordmetric
+	url = https://github.com/paulasmuth/fnordmetric.git
+[submodule "go/etcd"]
+	path = go/etcd
+	url = https://github.com/coreos/etcd.git
