@@ -409,3 +409,12 @@
 [submodule "go/etcd"]
 	path = go/etcd
 	url = https://github.com/coreos/etcd.git
+[submodule "go/go-dnssd"]
+	path = go/go-dnssd
+	url = https://github.com/soh335/go-dnssd.git
+[submodule "go/eventsource"]
+	path = go/eventsource
+	url = https://github.com/antage/eventsource.git
+[submodule "python/ansible"]
+	path = python/ansible
+	url = https://github.com/ansible/ansible.git
