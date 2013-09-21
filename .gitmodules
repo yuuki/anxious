@@ -418,3 +418,27 @@
 [submodule "python/ansible"]
 	path = python/ansible
 	url = https://github.com/ansible/ansible.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "cookbooks/nginx"]
+	path = cookbooks/nginx
+	url = https://github.com/opscode-cookbooks/nginx.git
+[submodule "ruby/chef"]
+	path = ruby/chef
+	url = https://github.com/opscode/chef.git
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "ruby/ohai"]
+	path = ruby/ohai
+	url = https://github.com/opscode/ohai.git
+[submodule "perl/Ukigumo-Server"]
+	path = perl/Ukigumo-Server
+	url = https://github.com/ukigumo/Ukigumo-Server.git
+[submodule "perl/Ukigumo-Agent"]
+	path = perl/Ukigumo-Agent
+	url = https://github.com/ukigumo/Ukigumo-Agent.git
+[submodule "perl/Ukigumo-Client"]
+	path = perl/Ukigumo-Client
+	url = https://github.com/ukigumo/Ukigumo-Client.git
