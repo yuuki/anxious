@@ -448,3 +448,6 @@
 [submodule "perl/MogileFS-Server"]
 	path = perl/MogileFS-Server
 	url = https://github.com/mogilefs/MogileFS-Server.git
+[submodule "perl/MogileFS-Client"]
+	path = perl/MogileFS-Client
+	url = https://github.com/mogilefs/perl-MogileFS-Client.git
