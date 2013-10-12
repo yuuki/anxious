@@ -442,3 +442,6 @@
 [submodule "perl/Ukigumo-Client"]
 	path = perl/Ukigumo-Client
 	url = https://github.com/ukigumo/Ukigumo-Client.git
+[submodule "perl/newbie-training"]
+	path = perl/newbie-training
+	url = https://github.com/kayac/newbie-training.git
