@@ -445,3 +445,6 @@
 [submodule "perl/newbie-training"]
 	path = perl/newbie-training
 	url = https://github.com/kayac/newbie-training.git
+[submodule "perl/MogileFS-Server"]
+	path = perl/MogileFS-Server
+	url = https://github.com/mogilefs/MogileFS-Server.git
