@@ -451,3 +451,63 @@
 [submodule "perl/MogileFS-Client"]
 	path = perl/MogileFS-Client
 	url = https://github.com/mogilefs/perl-MogileFS-Client.git
+[submodule "go/gom"]
+	path = go/gom
+	url = https://github.com/mattn/gom.git
+[submodule "go/goreman"]
+	path = go/goreman
+	url = https://github.com/mattn/goreman.git
+[submodule "go/delta"]
+	path = go/delta
+	url = https://github.com/kentaro/delta.git
+[submodule "go/gospel"]
+	path = go/gospel
+	url = https://github.com/r7kamura/gospel.git
+[submodule "go/go-rest-api-server"]
+	path = go/go-rest-api-server
+	url = https://github.com/stanaka/go-rest-api-server.git
+[submodule "go/redigo"]
+	path = go/redigo
+	url = https://github.com/garyburd/redigo.git
+[submodule "scala/collins"]
+	path = scala/collins
+	url = https://github.com/tumblr/collins.git
+[submodule "js/kibana"]
+	path = js/kibana
+	url = https://github.com/elasticsearch/kibana.git
+[submodule "ruby/autodoc"]
+	path = ruby/autodoc
+	url = https://github.com/r7kamura/autodoc.git
+[submodule "ruby/capistrano"]
+	path = ruby/capistrano
+	url = https://github.com/capistrano/capistrano.git
+[submodule "ruby/sshkit"]
+	path = ruby/sshkit
+	url = https://github.com/leehambley/sshkit.git
+[submodule "go/serf"]
+	path = go/serf
+	url = https://github.com/hashicorp/serf.git
+[submodule "go/doozerd"]
+	path = go/doozerd
+	url = https://github.com/ha/doozerd.git
+[submodule "ruby/sensu"]
+	path = ruby/sensu
+	url = https://github.com/sensu/sensu.git
+[submodule "go/hk"]
+	path = go/hk
+	url = https://github.com/heroku/hk.git
+[submodule "ruby/fluentd-plugins/fluent-plugin-graphite"]
+	path = ruby/fluentd-plugins/fluent-plugin-graphite
+	url = https://github.com/hotchpotch/fluent-plugin-graphite.git
+[submodule "ruby/fluentd"]
+	path = ruby/fluentd
+	url = https://github.com/fluent/fluentd.git
+[submodule "scala/finagle"]
+	path = scala/finagle
+	url = https://github.com/twitter/finagle.git
+[submodule "scala/PredictionIO"]
+	path = scala/PredictionIO
+	url = https://github.com/PredictionIO/PredictionIO.git
+[submodule "scala/twitter-util"]
+	path = scala/twitter-util
+	url = https://github.com/twitter/util.git
