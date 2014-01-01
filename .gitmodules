@@ -511,3 +511,39 @@
 [submodule "scala/twitter-util"]
 	path = scala/twitter-util
 	url = https://github.com/twitter/util.git
+[submodule "c/keepalived"]
+	path = c/keepalived
+	url = https://github.com/acassen/keepalived.git
+[submodule "ruby/sensu-community-plugins"]
+	path = ruby/sensu-community-plugins
+	url = https://github.com/sensu/sensu-community-plugins.git
+[submodule "ruby/sensu-plugin"]
+	path = ruby/sensu-plugin
+	url = https://github.com/sensu/sensu-plugin.git
+[submodule "ruby/yabitz"]
+	path = ruby/yabitz
+	url = https://github.com/livedoor/yabitz.git
+[submodule "ruby/asw-sdk"]
+	path = ruby/asw-sdk
+	url = https://github.com/aws/aws-sdk-ruby.git
+[submodule "python/aws-cli"]
+	path = python/aws-cli
+	url = https://github.com/aws/aws-cli.git
+[submodule "c/weighttp"]
+	path = c/weighttp
+	url = git://git.lighttpd.net/weighttp
+[submodule "ruby/padrino"]
+	path = ruby/padrino
+	url = https://github.com/padrino/padrino-framework.git
+[submodule "python/graphite-web"]
+	path = python/graphite-web
+	url = https://github.com/graphite-project/graphite-web.git
+[submodule "ruby/specinfra"]
+	path = ruby/specinfra
+	url = https://github.com/serverspec/specinfra.git
+[submodule "cpp/mesos"]
+	path = cpp/mesos
+	url = https://github.com/apache/mesos.git
+[submodule "perl/DBIx-Sunny"]
+	path = perl/DBIx-Sunny
+	url = git@github.com:kazeburo/DBIx-Sunny.git
